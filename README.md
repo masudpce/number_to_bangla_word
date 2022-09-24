@@ -1,4 +1,8 @@
 # number_to_bangla_word
 This VBA code converts numbers to bangla words.
 
-Use the function name that is defined in the code. in any textbox(access) or cell (excel). For the cell, select any bangla font like, SutonnyMJ or AbirvabHimel.
+Copy all code from "number_to_bangla_word_any_font.bas"  and paste in new module.
+Altenatively download "number_to_bangla_word_any_font.bas" file then drag and drop in the vba editor left side panel. Save it in any name.
+
+
+Use the function ConvertCurrencyToBangla(yourNumber) , in any textbox(access) or cell (excel). 
