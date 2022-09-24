@@ -87,7 +87,7 @@ Dim Temp
             Case ""
                Paise = ""
             Case Else
-               Paise = " Ges " & Paise & " cqmv"
+               Paise = " এবং " & Paise & " পয়সা "
          End Select
          ConvertCurrencyToBangla = Rupees & Paise
 End Function
