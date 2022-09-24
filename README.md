@@ -6,3 +6,5 @@ Altenatively download "number_to_bangla_word_any_font.bas" file then drag and dr
 
 
 Use the function ConvertCurrencyToBangla(yourNumber) , in any textbox(access) or cell (excel). No need to use fonts similar to sutonnyMJ.
+
+Tips: To be able to view bangla words in vba editor,  goto windows settings > Region > administrative > language for non-unicode program > Change system locale > bangla (bangladesh)
